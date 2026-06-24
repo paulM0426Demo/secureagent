@@ -1,1 +1,0 @@
-using System;\nclass Hello {\n    static void Main() {\n        Console.WriteLine("Hello, world!");\n    }\n}\n
